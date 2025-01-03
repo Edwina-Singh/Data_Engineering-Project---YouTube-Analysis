@@ -1,4 +1,4 @@
-# Data-Engineering-Project---YouTube-Analysis(AWS/.Json/.CSV)
+# Data-Engineering-Project---YouTube-Analysis(AWS/.Json/.CSV) By Edwina Singh
 
 # Overview
 This project focuses on securely managing, streamlining, and performing analysis on structured and semi-structured YouTube video data, based on video categories and trending metrics. The goal is to extract valuable insights from this data to support decision-making and trend analysis.
